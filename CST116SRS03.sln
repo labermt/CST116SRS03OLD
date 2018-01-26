@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{24BDD92E-3A4F-43BC-BFA4-29A26EB4B33B}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Operator", "Operator\Operator.vcxproj", "{93A786B3-165B-4974-9C34-163624666F4F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadratic", "Quadratic\Quadratic.vcxproj", "{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93A786B3-165B-4974-9C34-163624666F4F}.Debug|x64.ActiveCfg = Debug|x64
+		{93A786B3-165B-4974-9C34-163624666F4F}.Debug|x64.Build.0 = Debug|x64
+		{93A786B3-165B-4974-9C34-163624666F4F}.Debug|x86.ActiveCfg = Debug|Win32
+		{93A786B3-165B-4974-9C34-163624666F4F}.Debug|x86.Build.0 = Debug|Win32
+		{93A786B3-165B-4974-9C34-163624666F4F}.Release|x64.ActiveCfg = Release|x64
+		{93A786B3-165B-4974-9C34-163624666F4F}.Release|x64.Build.0 = Release|x64
+		{93A786B3-165B-4974-9C34-163624666F4F}.Release|x86.ActiveCfg = Release|Win32
+		{93A786B3-165B-4974-9C34-163624666F4F}.Release|x86.Build.0 = Release|Win32
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Debug|x64.ActiveCfg = Debug|x64
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Debug|x64.Build.0 = Debug|x64
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Debug|x86.Build.0 = Debug|Win32
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Release|x64.ActiveCfg = Release|x64
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Release|x64.Build.0 = Release|x64
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Release|x86.ActiveCfg = Release|Win32
+		{DE508CB5-64C5-4CCD-9CA9-EA605AFD2417}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E29419D2-A527-45C0-80ED-43983B27D568}
+	EndGlobalSection
+EndGlobal
