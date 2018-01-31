@@ -2,14 +2,13 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Boufallant
 
 SRS ID: CST116SRS03
 
 Unresolved Issues:  
 
 Notes:  
-
 
 ---
 
