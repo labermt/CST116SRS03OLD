@@ -2,7 +2,7 @@
 Operators and Functions
 
 
-Class ID: Vuplix 
+Class ID: Vulpix
 
 SRS ID: CST116SRS03
 
