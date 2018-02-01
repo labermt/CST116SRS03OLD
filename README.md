@@ -33,7 +33,9 @@ Create output that shows the results of these operators for all 3 combinations o
 
 i0 + i1 == 4  
 i0 + d0 == 42.1  
-d0 + d1 == 42.2  
+d0 + d1 == 42.2
+
+d1 + i1 == 
 
 Left justify the results to the right of the double equals sign.  
 
