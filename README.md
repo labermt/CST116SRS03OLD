@@ -40,6 +40,8 @@ Left justify the results to the right of the double equals sign.
 
 Show the output in the order of the operator precedence.  
 
+Note, the modulus operator % only works on int type (see p148 Remember Tip). You can skip this for the doubles. 
+
 
 Part 1:  
 
