@@ -2,13 +2,13 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Vulpix
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues: None.
 
-Notes:  
+Notes: Professor Besser had instructed us to do the modulus only for the integers. I've added extra spaces between each section in part 0 to increase readiblity.
 
 
 ---
@@ -28,7 +28,7 @@ Create a project named "Operator" that takes 4 numbers separated by whitespace a
 
 The first 2 numbers are of type "int" named i0 and i1. The last 2 numbers are of type "double" named d0 and d1.  
 
-Using C++ I/O Streams, output the results of the binary operators as shown on page 148 Table 6.3.1.  
+Using C++ I/O Streams, output the results of the binary operators as shown on page 148 Table 6.3.1.
 
 Create output that shows the results of these operators for all 3 combinations of types. For example:  
 
