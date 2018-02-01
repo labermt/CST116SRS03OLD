@@ -2,14 +2,13 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Boufallant
 
 SRS ID: CST116SRS03
 
 Unresolved Issues:  
 
-Notes:  
-
+Notes: Professor allowed extra spacing in the Operator project.  
 
 ---
 
@@ -34,7 +33,7 @@ Create output that shows the results of these operators for all 3 combinations o
 
 i0 + i1 == 4  
 i0 + d0 == 42.1  
-d0 + d1 == 42.2  
+d0 + d1 == 42.2 
 
 Left justify the results to the right of the double equals sign.  
 
