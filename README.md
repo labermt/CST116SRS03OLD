@@ -6,9 +6,9 @@ Class ID: Vulpix
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues: None.
 
-Notes:  
+Notes: Professor Besser had instructed us to do the modulus only for the integers. I've added extra spaces between each section in part 0 to increase readiblity.
 
 
 ---
