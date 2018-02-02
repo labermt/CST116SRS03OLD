@@ -24,7 +24,7 @@ Instructions:
 
 Part 0:  
 
-Create a project named "Operator" that takes 4 numbers separated by whitespace as input.  Ple
+Create a project named "Operator" that takes 4 numbers separated by whitespace as input. 
 
 The first 2 numbers are of type "int" named i0 and i1. The last 2 numbers are of type "double" named d0 and d1.  
 
