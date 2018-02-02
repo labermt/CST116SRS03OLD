@@ -32,8 +32,9 @@ int main()
 	std::cout << "Quadratic Equation Solved for variables entered";
 	std::cout << "\n";
 
-	std::cout << "Answer=" << (-b + sqrt(b * b - 4 * a * c)) / (2 * a); 
-
+	std::cout << "Answer 1=" << (-b + sqrt(b * b - 4 * a * c)) / (2 * a); 
+	std::cout << "\n";
+	std::cout << "Answer 2=" << (-b - sqrt(b * b - 4 * a * c)) / (2 * a);
 
     return 0;
 }
