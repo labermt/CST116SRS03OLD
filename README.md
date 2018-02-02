@@ -2,11 +2,11 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Eelektrik
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues: 
 
 Notes:  
 
