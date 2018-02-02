@@ -2,7 +2,7 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Whimsicott
 
 SRS ID: CST116SRS03
 
