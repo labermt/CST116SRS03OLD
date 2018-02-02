@@ -6,9 +6,9 @@ Class ID: Fearow
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues:  None
 
-Notes:  
+Notes: Quadratic program requires values for a, b & c that produce real (non-imaginary) roots. 
 
 
 ---
