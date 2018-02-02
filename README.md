@@ -2,11 +2,14 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Clamperl
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues:  I was able to get this to work by looking reading a bit farther in the book and using "if" and "else" statements
+which you stated before walking out the door that we had not learned that yet, and I assumed that meant we couldn't use it.
+So back at square one, I used the ASSERT but could only get the program to be successful with 1,7, and 9 as numbers. 
+Approaching a deadline, I would really like to know how to do this properly because it seems important. '
 
 Notes:  
 
