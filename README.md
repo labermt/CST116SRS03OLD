@@ -2,11 +2,11 @@
 Operators and Functions
 
 
-Class ID: 
+Class ID: Taillow
 
 SRS ID: CST116SRS03
 
-Unresolved Issues:  
+Unresolved Issues:  Imaginary values not solved, so the assert function was applied in the Quadratic problem to eliminate the result of imaginary values.
 
 Notes:  
 
